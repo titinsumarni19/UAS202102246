@@ -1,4 +1,4 @@
-package com.titinsumarni_202102246.myapplication;
+package com.titinsumarni_202102246.uas202102246;
 
 public class MainModel {
     private  double temp_main;

@@ -1,4 +1,4 @@
-package com.titinsumarni_202102246.myapplication;
+package com.titinsumarni_202102246.uas202102246;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
@@ -11,8 +11,7 @@ import android.widget.Toast;
 import com.google.gson.Gson;
 import com.loopj.android.http.AsyncHttpClient;
 import com.loopj.android.http.AsyncHttpResponseHandler;
-
-import cz.msebera.android.httpclient.entity.mime.Header;
+import com.titinsumarni_202102246.myapplication.R;
 
 public class MainActivity extends AppCompatActivity {
 

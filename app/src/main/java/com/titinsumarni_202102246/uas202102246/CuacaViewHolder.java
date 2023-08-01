@@ -1,10 +1,11 @@
-package com.titinsumarni_202102246.myapplication;
+package com.titinsumarni_202102246.uas202102246;
 
 import android.view.View;
-import android.widget.ImageView;
 import android.widget.TextView;
 
 import androidx.recyclerview.widget.RecyclerView;
+
+import com.titinsumarni_202102246.myapplication.R;
 
 public class CuacaViewHolder extends RecyclerView.ViewHolder {
 

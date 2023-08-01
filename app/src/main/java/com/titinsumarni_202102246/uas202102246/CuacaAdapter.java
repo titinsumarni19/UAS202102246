@@ -1,4 +1,4 @@
-package com.titinsumarni_202102246.myapplication;
+package com.titinsumarni_202102246.uas202102246;
 
 import android.util.Log;
 import android.view.LayoutInflater;
@@ -7,6 +7,8 @@ import android.view.ViewGroup;
 
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
+
+import com.titinsumarni_202102246.myapplication.R;
 
 import java.text.DecimalFormat;
 import java.text.ParseException;
